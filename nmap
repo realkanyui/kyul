@@ -1,0 +1,5 @@
+# ifconfig  >check my IP range
+
+# netdiscover -r 10.0.0.0/24  >All IP to find Bare OS
+
+# nmap -sN 10.0.0.1-255 >All Port and Victim PC and Bare OS
